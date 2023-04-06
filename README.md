@@ -1,1 +1,1 @@
-Firt git project
+First git project
